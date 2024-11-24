@@ -10,7 +10,7 @@ function Home() {
         <button><a href="#contact">Contact us</a></button>
       </div>
       <div>
-        <img src="/images/coding-removebg-preview.4d865ba80d33516f251e.png" alt="Coding" />
+        <img src="public/Images/web dev.png" alt="Coding" />
       </div>
     </div>
   );

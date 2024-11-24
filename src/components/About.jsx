@@ -3,7 +3,7 @@ function About(){
     return(
         <div id="about">
             <div>
-            <img src="/images/carlos-muza-hpjSkU2UYSU-unsplash_jx4mn8.jpg" alt="" />
+            <img src="public/Images/Abt-pic.jpg" alt="" />
             </div>
             <div>
             <h2 id="about">ABOUT US</h2>
